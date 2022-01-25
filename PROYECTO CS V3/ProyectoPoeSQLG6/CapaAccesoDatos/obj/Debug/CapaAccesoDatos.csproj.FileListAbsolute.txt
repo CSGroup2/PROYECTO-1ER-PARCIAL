@@ -1,0 +1,36 @@
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.dll
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.pdb
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\mac\source\repos\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.dll
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.pdb
+C:\Users\mac\source\repos\SITIO PRUEBA PROYECTO POE REPORTES\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.dll
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.pdb
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\mac\Downloads\ProyectoPoeREPORTESPRUEBA\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.dll
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.pdb
+C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete

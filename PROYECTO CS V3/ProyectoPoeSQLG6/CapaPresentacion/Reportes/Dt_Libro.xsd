@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Dt_Libro" targetNamespace="http://tempuri.org/Dt_Libro.xsd" xmlns:mstns="http://tempuri.org/Dt_Libro.xsd" xmlns="http://tempuri.org/Dt_Libro.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Dt_Libro" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Dt_Libro" msprop:Generator_UserDSName="Dt_Libro">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt_libro" msprop:Generator_TableClassName="dt_libroDataTable" msprop:Generator_TableVarName="tabledt_libro" msprop:Generator_TablePropName="dt_libro" msprop:Generator_RowDeletingName="dt_libroRowDeleting" msprop:Generator_RowChangingName="dt_libroRowChanging" msprop:Generator_RowEvHandlerName="dt_libroRowChangeEventHandler" msprop:Generator_RowDeletedName="dt_libroRowDeleted" msprop:Generator_UserTableName="dt_libro" msprop:Generator_RowChangedName="dt_libroRowChanged" msprop:Generator_RowEvArgName="dt_libroRowChangeEvent" msprop:Generator_RowClassName="dt_libroRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:string" minOccurs="0" />
+              <xs:element name="estado" msprop:Generator_ColumnVarNameInTable="columnestado" msprop:Generator_ColumnPropNameInRow="estado" msprop:Generator_ColumnPropNameInTable="estadoColumn" msprop:Generator_UserColumnName="estado" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="editorial" msprop:Generator_ColumnVarNameInTable="columneditorial" msprop:Generator_ColumnPropNameInRow="editorial" msprop:Generator_ColumnPropNameInTable="editorialColumn" msprop:Generator_UserColumnName="editorial" type="xs:string" minOccurs="0" />
+              <xs:element name="autor" msprop:Generator_ColumnVarNameInTable="columnautor" msprop:Generator_ColumnPropNameInRow="autor" msprop:Generator_ColumnPropNameInTable="autorColumn" msprop:Generator_UserColumnName="autor" type="xs:string" minOccurs="0" />
+              <xs:element name="genero" msprop:Generator_ColumnVarNameInTable="columngenero" msprop:Generator_ColumnPropNameInRow="genero" msprop:Generator_ColumnPropNameInTable="generoColumn" msprop:Generator_UserColumnName="genero" type="xs:string" minOccurs="0" />
+              <xs:element name="numpag" msprop:Generator_ColumnVarNameInTable="columnnumpag" msprop:Generator_ColumnPropNameInRow="numpag" msprop:Generator_ColumnPropNameInTable="numpagColumn" msprop:Generator_UserColumnName="numpag" type="xs:string" minOccurs="0" />
+              <xs:element name="añoedicion" msprop:Generator_ColumnVarNameInTable="columnañoedicion" msprop:Generator_ColumnPropNameInRow="añoedicion" msprop:Generator_ColumnPropNameInTable="añoedicionColumn" msprop:Generator_UserColumnName="añoedicion" type="xs:string" minOccurs="0" />
+              <xs:element name="stockini" msprop:Generator_ColumnVarNameInTable="columnstockini" msprop:Generator_ColumnPropNameInRow="stockini" msprop:Generator_ColumnPropNameInTable="stockiniColumn" msprop:Generator_UserColumnName="stockini" type="xs:string" minOccurs="0" />
+              <xs:element name="stockactual" msprop:Generator_ColumnVarNameInTable="columnstockactual" msprop:Generator_ColumnPropNameInRow="stockactual" msprop:Generator_ColumnPropNameInTable="stockactualColumn" msprop:Generator_UserColumnName="stockactual" type="xs:string" minOccurs="0" />
+              <xs:element name="precio_compra" msprop:Generator_ColumnVarNameInTable="columnprecio_compra" msprop:Generator_ColumnPropNameInRow="precio_compra" msprop:Generator_ColumnPropNameInTable="precio_compraColumn" msprop:Generator_UserColumnName="precio_compra" type="xs:string" minOccurs="0" />
+              <xs:element name="precio_venta" msprop:Generator_ColumnVarNameInTable="columnprecio_venta" msprop:Generator_ColumnPropNameInRow="precio_venta" msprop:Generator_ColumnPropNameInTable="precio_ventaColumn" msprop:Generator_UserColumnName="precio_venta" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
