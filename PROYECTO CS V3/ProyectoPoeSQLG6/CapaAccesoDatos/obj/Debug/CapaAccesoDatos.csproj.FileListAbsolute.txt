@@ -34,3 +34,12 @@ C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeS
 C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.dll
 C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.pdb
 C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\bin\Debug\Comun.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

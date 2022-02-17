@@ -10,3 +10,9 @@ C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeS
 C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
 C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\Comun\obj\Debug\Comun.dll
 C:\Users\mac\3D Objects\Proyectorecursosfinal\SOLUCION DEL PROYECTO\ProyectoPoeSQLG6\Comun\obj\Debug\Comun.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\Comun\bin\Debug\Comun.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\Comun\bin\Debug\Comun.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\Comun\obj\Debug\Comun.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\PROYECTO-1ER-PARCIAL\PROYECTO CS V3\ProyectoPoeSQLG6\Comun\obj\Debug\Comun.pdb
