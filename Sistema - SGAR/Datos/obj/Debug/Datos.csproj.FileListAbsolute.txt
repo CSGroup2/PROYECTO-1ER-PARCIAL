@@ -7,3 +7,12 @@ D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C.
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Datos\obj\Debug\Datos.csproj.CopyComplete
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Datos\obj\Debug\Datos.dll
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Datos\obj\Debug\Datos.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\bin\Debug\Datos.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\bin\Debug\Datos.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\bin\Debug\Model.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\bin\Debug\Model.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\obj\Debug\Datos.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Datos\obj\Debug\Datos.pdb

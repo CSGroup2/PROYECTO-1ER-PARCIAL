@@ -4,3 +4,9 @@ D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C.
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Model\obj\Debug\Model.dll
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Model\obj\Debug\Model.pdb
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Model\bin\Debug\Model.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Model\bin\Debug\Model.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Model\obj\Debug\Model.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Model\obj\Debug\Model.pdb

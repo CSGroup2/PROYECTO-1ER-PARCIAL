@@ -9,3 +9,14 @@ D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C.
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Control\obj\Debug\Control.csproj.CopyComplete
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Control\obj\Debug\Control.dll
 D:\USER\Documents\MyDocuments\Code\Visual Studio Community\C#\UG\6° Semester\C. S. - Construcción de Sosftware\Proyect\2° Parcial\Sistema - SGAR\Control\obj\Debug\Control.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\bin\Debug\Control.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\bin\Debug\Control.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\bin\Debug\Datos.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\bin\Debug\Model.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\bin\Debug\Datos.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\bin\Debug\Model.pdb
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\obj\Debug\Control.csproj.CopyComplete
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\obj\Debug\Control.dll
+D:\USER\Documents\MyDocuments\Code\GitHub\NoFake\PROYECTO-1ER-PARCIAL\Sistema - SGAR\Control\obj\Debug\Control.pdb
