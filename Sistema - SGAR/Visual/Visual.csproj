@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{945813F7-F36F-4AF2-A7E0-EB6818E75E10}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Visual</RootNamespace>
+    <AssemblyName>Visual</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.4\lib\net40\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Btn_Comportamiento.cs" />
+    <Compile Include="Frm_Ambulancia_Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Ambulancia_Consulta.designer.cs">
+      <DependentUpon>Frm_Ambulancia_Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Ambulancia_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Ambulancia_Editar.designer.cs">
+      <DependentUpon>Frm_Ambulancia_Editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Ambulancia_Registrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Ambulancia_Registrar.designer.cs">
+      <DependentUpon>Frm_Ambulancia_Registrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cliente_Consultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cliente_Consultar.designer.cs">
+      <DependentUpon>Frm_Cliente_Consultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cliente_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cliente_Editar.designer.cs">
+      <DependentUpon>Frm_Cliente_Editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cliente_Registrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cliente_Registrar.designer.cs">
+      <DependentUpon>Frm_Cliente_Registrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Conductor_Consultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Conductor_Consultar.designer.cs">
+      <DependentUpon>Frm_Conductor_Consultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Conductor_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Conductor_Editar.designer.cs">
+      <DependentUpon>Frm_Conductor_Editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Conductor_Registrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Conductor_Registrar.designer.cs">
+      <DependentUpon>Frm_Conductor_Registrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login.designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Menu.designer.cs">
+      <DependentUpon>Frm_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Peticion_Registrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Peticion_Registrar.designer.cs">
+      <DependentUpon>Frm_Peticion_Registrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Recuperar_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Recuperar_Password.designer.cs">
+      <DependentUpon>Frm_Recuperar_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login_Saludo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login_Saludo.designer.cs">
+      <DependentUpon>Frm_Login_Saludo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frm_Ambulancia_Consulta.resx">
+      <DependentUpon>Frm_Ambulancia_Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Ambulancia_Editar.resx">
+      <DependentUpon>Frm_Ambulancia_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Ambulancia_Registrar.resx">
+      <DependentUpon>Frm_Ambulancia_Registrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cliente_Consultar.resx">
+      <DependentUpon>Frm_Cliente_Consultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cliente_Editar.resx">
+      <DependentUpon>Frm_Cliente_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cliente_Registrar.resx">
+      <DependentUpon>Frm_Cliente_Registrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Conductor_Consultar.resx">
+      <DependentUpon>Frm_Conductor_Consultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Conductor_Editar.resx">
+      <DependentUpon>Frm_Conductor_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Conductor_Registrar.resx">
+      <DependentUpon>Frm_Conductor_Registrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Menu.resx">
+      <DependentUpon>Frm_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Peticion_Registrar.resx">
+      <DependentUpon>Frm_Peticion_Registrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Recuperar_Password.resx">
+      <DependentUpon>Frm_Recuperar_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login_Saludo.resx">
+      <DependentUpon>Frm_Login_Saludo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Control\Control.csproj">
+      <Project>{e00f59da-cbeb-4baa-9ba7-94b7680eb2b2}</Project>
+      <Name>Control</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconologed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Letra Solo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Solo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LosRapidos.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
